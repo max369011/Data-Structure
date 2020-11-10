@@ -1,0 +1,8 @@
+a 10 richard
+a 2 stark
+a 1 howard
+a 5 tony
+a 9 pepper
+d 2
+p
+q

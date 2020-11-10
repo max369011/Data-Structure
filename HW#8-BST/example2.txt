@@ -1,0 +1,7 @@
+a 3 daniel
+a 1 charlie
+a 5 thomas
+d 5
+d 1
+p
+q

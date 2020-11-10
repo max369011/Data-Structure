@@ -1,0 +1,5 @@
+Geoffrey, 11, geoff@toronto.edu
+Yoshua, 12, yoshua@montreal.edu
+Yann, 13, yann@nyu.edu
+Cho, 55, cho@nyu.edu
+Alex, 57, alex@deepmind.com
